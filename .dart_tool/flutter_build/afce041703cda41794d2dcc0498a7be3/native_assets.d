@@ -1,0 +1,1 @@
+ C:\\projectsmobile\\sam123\\flutter-currency-converter\\.dart_tool\\flutter_build\\afce041703cda41794d2dcc0498a7be3\\native_assets.yaml: 
